@@ -9,4 +9,6 @@
 8. install flask   ```pip3 install Flask```
 9. Check if flask was installed ```flask --version```
 10. Copy the 2 files ```tz07-flask.py``` and ```tz07-web.py``` near the README.md file, or just creatte the files and copy the code
-11. 
+11. Don't forget to save the files with ```ctrl-s```
+12. In the terminal activate the flask code which calls the pure python code ```python3 tz07-flask.py```
+13. copy the generated URL to your ```index.html``` page
