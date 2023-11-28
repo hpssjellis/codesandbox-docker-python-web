@@ -13,7 +13,7 @@ def myFlask():
     print(f"Use this URL: {request.url}")
     try:
         if request.method == 'GET':
-            result = subprocess.run(['python3', 'a03-py.py', "Enter Data"], capture_output=True, text=True)   
+            result = subprocess.run(['python3', 'tz07-web.py', "Enter Data"], capture_output=True, text=True)   
 
         if request.method == 'POST':
             myUser_input = request.form['user_input']  
