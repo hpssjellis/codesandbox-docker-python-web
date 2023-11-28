@@ -28,3 +28,20 @@
 8. Don't forget to save the files with ```ctrl-s```
 9. In the terminal activate the flask code which calls the pure python code ```python3 tz07-flask.py```
 10. copy the generated URL to your ```index.html``` page
+
+
+
+# node 
+
+I just setup nodejs with npm and tried a new file  called ```myNode.js``` which works in the same way
+
+codesandbox to fork
+https://codesandbox.io/p/devbox/jovial-dan-pq7mxy  
+
+
+web page
+https://pq7mxy-5000.csb.app
+
+
+
+
