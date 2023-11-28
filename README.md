@@ -40,7 +40,7 @@ https://codesandbox.io/p/devbox/jovial-dan-pq7mxy
 
 
 web page
-https://pq7mxy-5000.csb.app
+https://pq7mxy-5000.csb.app/upload
 
 
 
