@@ -7,5 +7,6 @@
 7. test if python is installed '''python3 --version``` and test if pip is installed ```pip3 --version```
 5. test if ```python -V``` and ```pip -V``` work note it is a captial V, most other Ubuntu versions are a small v
 8. install flask   ```pip3 install Flask```
-9. Copy the 2 files ```tz07-flask.py``` and ```tz07-web.py``` near the README.md file, or just creatte the files and copy the code
-10. 
+9. Check if flask was installed ```flask --version```
+10. Copy the 2 files ```tz07-flask.py``` and ```tz07-web.py``` near the README.md file, or just creatte the files and copy the code
+11. 
